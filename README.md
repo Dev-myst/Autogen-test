@@ -19,7 +19,7 @@ ollama pull granite3.3:8b
    pip install virtualenv
    virtualenv autogen_env
 
-   source sutogen_env/activate
+   source autogen_env/bin/activate
 
 2. **Install Autogen**
    ```bash
